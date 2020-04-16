@@ -2,15 +2,17 @@
 
 - [Rocket League](#-rocket-league)
 - [eSports](#-esports)
+- [Documentaries, interviews and talks](#-documentaries-interviews-and-talks)
 - [Statistics and replays](#-statistics-and-replays)
 - [BakkesMod](#-bakkesmod)
+- [Mod development](#-mod-development)
 - [Mods](#-mods)
 - [Unreal Engine 3](#-unreal-engine-3)
 - [Rocket Science](#-rocket-science)
+- [Research](#-research)
 - [RLBot](#-rlbot)
 - [Presets and designs](#-presets-and-designs)
 - [Trading](#-trading)
-- [Miscellaneous](#-miscellaneous)
 
 ## <img alt="⚽"> Rocket League
 
@@ -41,6 +43,17 @@ This is Rocket League!
 | https://smash.gg | A website to create, follow, or join tournament events. |
 | https://www.toornament.com/en_US/games/rocketleague | A website to create, follow, or join tournament events. |
 
+## <img alt="📺"> Documentaries, interviews and talks
+| URL | Description |
+|-:|-|
+| https://www.youtube.com/watch?v=Om0j9SLBDPQ | *The Story of Rocket League: How to Build a Rocket* |
+| https://www.youtube.com/watch?v=Bb_NBiJ0ilk | *The Story of Rocket League: How to Launch a Rocket* |
+| https://www.youtube.com/watch?v=YW_LH4JGt4g | *The Music & Sounds of Rocket League with Mike Ault* |
+| https://www.youtube.com/watch?v=zjA9IGJvB_E | *Dave Hagewood Explains The History of Rocket League* |
+| https://www.youtube.com/watch?v=aUxdHQXbiK0 | *Jeremy Dunham on Marketing Rocket League* |
+| https://www.youtube.com/watch?v=Ut1BIsCby2c | *Rocket League: The Road From Cult Classic to Surprise Success* |
+| https://www.youtube.com/watch?v=ueEmiDM94IE | *It IS Rocket Science! The Physics of Rocket League Detailed* |
+
 ## <img alt="📊"> Statistics and replays
 
 Statistics and replay analysis focus on the visualization of individual player statistics and skills such as, for example, positioning, boost usage, or ball possession, by parsing and analyzing replays shared by the community. On a broader scale, statistics also focus on global leaderboards, skill ratings, or playlist population numbers.
@@ -67,7 +80,7 @@ A third-party, all-purpose mod that is actively maintained and safe to use. It n
 | https://discord.gg/HsM6kAR |  BakkesMod on Discord, a place to seek help, make suggestions, report bugs, talk about the development of plugins, or just stay updated on the latest news. |
 | https://twitter.com/BakkesMod | BakkesMod on Twitter. |
 
-## <img alt="🧰"> Mods
+## <img alt="🛠️"> Mod development
 
 The primary focus of modding Rocket League is on the creation of custom arenas, custom game modes, or custom cosmetic items.
 
@@ -77,6 +90,15 @@ The primary focus of modding Rocket League is on the creation of custom arenas, 
 | https://discord.gg/NGe4gt9 | Rocket League Mods on Discord, a place to seek help, or talk about the creation of mods. Features a helpful bot that can be called to get latest versions of modding tools, or support files. |
 | https://www.reddit.com/r/RocketLeagueMods | Main Subreddit, including further details, links, and lots of archived posts dealing with the creation of mods. |
 | https://steamcommunity.com/app/252950/workshop | Creative content uploaded to the Steam Workshop. |
+
+## <img alt="🧰"> Mods
+
+Third-party mods add useful features to Rocket League.
+
+| URL | Description |
+|-:|-|
+| https://www.gifyourgame.com | A free tool to create and share clips of gameplay. |
+| http://www.alphaconsole.net | A discontinued mod, included lots of features, such as custom textures, or additional in-game details and notifications of MMR. |
 
 ## <img alt="⚙️"> Unreal Engine 3
 
@@ -99,6 +121,13 @@ An ongoing, in-depth series about the science of Rocket League, specifically foc
 | https://www.youtube.com/RocketScienceRL | Rocket Science on YouTube. |
 | https://github.com/OfficialHalfwayDead | Rocket Science on GitHub, where open-source repositories, such as testing tools, test results, or BakkesMod plugins can be found. |
 | https://1drv.ms/x/s!Av9du64LKhjw8Xe7tHDJA2Q6FjsL?e=F2Fo61 | A spreadsheet, containing in-depth statistics about car presets. |
+
+## <img alt="📐"> Research
+
+| URL | Description |
+|-:|-|
+| https://samuelpmish.github.io/notes/RocketLeague | In-depth notes on the physics of Rocket League. |
+| https://gitlab.com/heavycar/research | Research, focusing on the issue of a heavy car bug. |
 
 ## <img alt="🤖"> RLBot
 
@@ -137,10 +166,3 @@ The trading market of cosmetic items is for the most part split up into differen
 | https://www.reddit.com/r/RocketLeagueExchange | Main trading Subreddit, including helpful guides, weekly stickies, and market meta-discussions. |
 | https://play.google.com/store/apps/details?id=com.hintech.rltradingpost | RL Trading Post on Android. |
 | https://apps.apple.com/app/rl-trading-post/id1316784265 | RL Trading Post on iOS. |
-
-## <img alt="📌"> Miscellaneous
-
-| URL | Description |
-|-:|-|
-| https://samuelpmish.github.io/notes/RocketLeague | In-depth notes on the physics of Rocket League. |
-| https://www.gifyourgame.com | A free tool to create and share clips of gameplay. |
