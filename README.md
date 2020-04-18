@@ -2,6 +2,7 @@
 
 - [Rocket League](#-rocket-league)
 - [eSports](#-esports)
+- [Extra modes](#-extra-modes)
 - [Documentaries, interviews and talks](#-documentaries-interviews-and-talks)
 - [Statistics and replays](#-statistics-and-replays)
 - [BakkesMod](#-bakkesmod)
@@ -37,13 +38,26 @@ This is Rocket League!
 |-:|-|
 | https://www.rocketleagueesports.com | Main website, including latest news, schedules, standings, and statistics. |
 | https://twitter.com/RLesports | Rocket League eSports on Twitter. |
+| https://www.youtube.com/c/rocketleagueesports | Rocket League eSports on YouTube. |
 | https://www.reddit.com/r/RocketLeagueEsports | Main Subreddit, including latest news, live discussions, post-match discussions, and highlights. |
 | https://liquipedia.net/rocketleague | A content-rich, community-edited wiki. |
-| https://octane.gg | Coverage of Rocket League eSports, including latesdt news, schedules, standings, and statistics. |
-| https://smash.gg | A website to create, follow, or join tournament events. |
-| https://www.toornament.com/en_US/games/rocketleague | A website to create, follow, or join tournament events. |
+| https://octane.gg | Coverage of Rocket League eSports, including latest news, schedules, standings, and statistics. |
+| https://rocketeers.gg | Coverage of Rocket League eSports, including latest news, and standings. |
+| https://us.nallen.me/rlcs | League Rankings, focusing on Rocket League Championship Series. |
+| https://smash.gg | Create, join, or follow tournament events. |
+| https://www.toornament.com/en_US/games/rocketleague | Create, join, or follow tournament events. |
+
+## <img alt="🏟️"> Extra Modes
+
+ URL | Description |
+|-:|-|
+| https://rockethockeyleague.com | Rocket Hockey League, a community dedicated to Snow Day. |
+| https://www.rankedhoops.gg | Ranked Hoops, a community dedicated to Hoops. |
+| https://houseofrumble.gg | House of Rumble, a community dedicated to Rumble. |
+| https://twitter.com/RankedDropshot | Ranked Dropshot, a community dedicated to Dropshot. |
 
 ## <img alt="📺"> Documentaries, interviews and talks
+
 | URL | Description |
 |-:|-|
 | https://www.youtube.com/watch?v=Om0j9SLBDPQ | *The Story of Rocket League: How to Build a Rocket* |
