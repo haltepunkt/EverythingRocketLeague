@@ -53,8 +53,10 @@ This is Rocket League!
 |-:|-|
 | https://rockethockeyleague.com | Rocket Hockey League, a community dedicated to Snow Day. |
 | https://www.rankedhoops.gg | Ranked Hoops, a community dedicated to Hoops. |
+| https://discord.gg/sCvrWya | House of Soup, a community dedicated to Rumble. |
 | https://houseofrumble.gg | House of Rumble, a community dedicated to Rumble. |
 | https://twitter.com/RankedDropshot | Ranked Dropshot, a community dedicated to Dropshot. |
+| https://discord.gg/ETBDuDY | Ranked Spike Rush, a community dedicated to Spike Rush. |
 
 ## <img alt="📺"> Documentaries, interviews and talks
 
@@ -161,7 +163,7 @@ Different communities have been formed and useful tools have been published to m
 | URL | Description |
 |-:|-|
 | https://www.reddit.com/r/RLFashionAdvice | Rocket League Fashion Advice, a Subreddit dedicated to sharing car designs and artwork. |
-| https://rlcd.github.io/form | A community-developed tool to create and share car designs. |
+| https://rlcd.github.io/form | A community-developed tool to create and share car designs, without the need for any mods. |
 | https://www.reddit.com/r/RLCustomDesigns | Rocket League Custom Designs on Reddit, where shared car designs can be found and voted on. |
 | https://discord.gg/H3Cypr3 | Rocket League Custom Designs on Discord. |
 | https://rocket-loadout.com | A web-based tool to create and preview car designs. |
