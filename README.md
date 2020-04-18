@@ -12,6 +12,7 @@
 - [Rocket Science](#-rocket-science)
 - [Research](#-research)
 - [RLBot](#-rlbot)
+- [Notable content creators](#-notable-content-creators)
 - [Presets and designs](#-presets-and-designs)
 - [Trading](#-trading)
 
@@ -155,6 +156,15 @@ A community and development framework centered around the creation of custom bot
 | https://github.com/RLBot | RLBot on GitHub, where open-source repositories, such as frameworks, or ready-to-use example bots can be found. |
 | https://discord.gg/zbaAKPt | RLBot on Discord. |
 | https://www.twitch.tv/rlbotofficial | RLBot on Twitch, where bot tournaments are hosted. |
+
+## <img alt="🔔"> Notable content creators
+
+| URL | Description |
+|-:|-|
+| https://twitter.com/SunlessKhan | SunlessKhan, widely known for the *Why You Suck at Rocket League* series. |
+| https://twitter.com/Lethamyr_RL | Lethamyr, creator of dozens of custom mods. |
+| https://twitter.com/amustycow | Musty, a Grand Champion focusing on unique gameplay, highlights, and tutorials.
+| https://twitter.com/JohnnyBoi_i | JohnnyBoi_i, casting crew member of the Rocket League Championship Series, focusing on hosting of professional tournaments, showmatches, and tutorials. |
 
 ## <img alt="🎨"> Presets and designs
 
